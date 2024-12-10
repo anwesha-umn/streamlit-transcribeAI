@@ -3,7 +3,7 @@ yt-dlp
 whisper-timestamped
 numpy
 pydub
-moviepy
+moviepy==2.1.1
 json5
 torch  
 torchaudio  
