@@ -5,8 +5,8 @@ import yt_dlp
 import whisper_timestamped
 import numpy as np
 from pydub import AudioSegment
-import moviepy
-from moviepy.editor import VideoFileClip
+from moviepy import *
+#from moviepy.editor import VideoFileClip
 import shutil
 import subprocess
 import re
